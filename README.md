@@ -1,6 +1,6 @@
 # Coding Interview Questions
 
-> Click :star: if you like the project. Pull Request are highly appreciated. Follow me [@manasdutta04].
+> Click :star: if you like the project. Pull Request are highly appreciated. Follow me [@manasdutta04](https://github.com/manasdutta04/).
 
 ---
 
